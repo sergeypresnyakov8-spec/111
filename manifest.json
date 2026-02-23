@@ -1,0 +1,24 @@
+{
+  "id": "smeny-shift-tracker-v2",
+  "name": "Мои смены 2.0",
+  "short_name": "Смены",
+  "description": "Приложение для отображения смен и часов из Google Таблицы",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#FFFFFF",
+  "orientation": "portrait",
+  "categories": [
+    "productivity",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
